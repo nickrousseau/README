@@ -2,5 +2,4 @@
 
 ## Summary
 
-This repository contains all of the notes taken by Nick for Dark Dev bootcamp.
-...taken by [Nick](https://github.com/nickrousseau)
+This repository contains all of the notes taken by [Nick](https://github.com/nickrousseau) for Dark Dev bootcamp.
